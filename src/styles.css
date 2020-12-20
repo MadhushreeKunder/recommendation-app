@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: "Langar", cursive;
+
+  margin: 0px;
+  background-color: #1f2937;
+  color: white;
+}
+
+.navigation {
+  height: 10vh;
+  color: #1f2937;
+  background-color: #f59e0b;
+  padding: 1rem;
+  font-size: large;
+}
+
+h1 {
+  margin: 0px;
+}
+
+.btn-style {
+  border: none;
+  margin: 1rem;
+  font-family: inherit;
+  font-size: 1.25rem;
+  background-color: #fef3c7;
+  color: #1f2937;
+  border-radius: 0.09cm;
+  box-shadow: 0.3rem 0.3rem #111222;
+  cursor: pointer;
+}
+
+.lists {
+  list-style: none;
+  margin: 2rem;
+  padding: 1rem;
+  background-color: #fcd34d;
+  color: #111827;
+  width: 30%;
+  margin: auto auto 2rem;
+  border-radius: 0.09cm;
+  box-shadow: 0.3rem 0.3rem #111222;
+  font-size: large;
+}
+
+footer {
+  background-color: #d97706;
+}
